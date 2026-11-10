@@ -52,7 +52,7 @@ I enjoy turning raw data into working tools, from cleaning and analysis to model
 - Open to learning, collaborating, and contributing to projects
 
 ## 📫 Let's connect
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sahir-parmar)
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sahir-parmar-7014643a4)
 
 
 <div align="center">
