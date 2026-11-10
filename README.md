@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sahirparmar27/sahirparmar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sahir Parmar 👋
 
-Here are some ideas to get you started:
+### B.Tech Student · Aspiring AI/ML Engineer · Hackathon Runner-Up 🥈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahirparmar27)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+> [!NOTE]
+> 🎯 **Open to AI/ML internships** (remote-friendly). I learn by building end-to-end projects.
+
+---
+
+## 👨‍💻 About me
+I'm a B.Tech student at **Gandhinagar University**, preparing for a career in **AI/ML Engineering**.
+I enjoy turning raw data into working tools, from cleaning and analysis to models and simple apps.
+
+## 🛠️ Skills & technologies
+
+<img src="https://skillicons.dev/icons?i=python,js,react,flask,pandas,numpy,sklearn,opencv,git,github" />
+
+| Area | Tools |
+|---|---|
+| **Languages** | Python, JavaScript |
+| **Data & ML** | Pandas, NumPy, scikit-learn, data analysis, Plotly |
+| **Web & apps** | Streamlit, Flask, React |
+| **Tools** | Git & GitHub |
+
+## 🚀 Projects
+
+| Project | What it does | Tech | Status |
+|---|---|---|---|
+| **DataReady** | Automatically profiles a dataset, finds data quality problems and anomalies, lets you review and approve cleaning steps, and reports how ready the data is for machine learning | Python, Streamlit, Pandas, scikit-learn, Plotly | 🚧 In progress *(repo link coming soon)* |
+| [**IntelEstate**](https://github.com/sahirparmar27/IntelEstate) | House price prediction for Ahmedabad | Python, Flask, scikit-learn | ✅ Built |
+| [**SkyCast**](https://github.com/sahirparmar27/SkyCast) | Weather application | React | ✅ Built |
+
+## 🏆 Achievements
+- 🥈 **2nd Rank, CODEમંથન 3.0 & TECHSPRINT 2.0**: national-level hackathon, Anand, Gujarat (September, 2026). Built DisasterLens, a An end-to-end Data-Driven Disaster Risk Prediction System that demonstrates how Machine Learning can be used to analyze disaster-related data and generate risk predictions through a web application.
+
+## 🔭 Currently learning
+- 👁️ **Computer Vision**: learning how machines understand images
+- 📈 Strengthening **machine learning** fundamentals
+- 🧱 Building **end-to-end data projects**
+
+## 🎯 Interests & goals
+- Interested in **computer vision**, **machine learning**, and **data quality**
+- Goal: an AI/ML internship now, then a career as an AI/ML Engineer
+- Open to learning, collaborating, and contributing to projects
+
+## 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sahir-parmar)
+
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
