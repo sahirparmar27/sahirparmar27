@@ -39,7 +39,7 @@ I enjoy turning raw data into working tools, from cleaning and analysis to model
 | [**SkyCast**](https://github.com/sahirparmar27/SkyCast) | Weather application | React | ✅ Built |
 
 ## 🏆 Achievements
-- 🥈 **2nd Rank, CODEમંથન 3.0 & TECHSPRINT 2.0**: national-level hackathon, Anand, Gujarat (September, 2026). Built DisasterLens, a An end-to-end Data-Driven Disaster Risk Prediction System that demonstrates how Machine Learning can be used to analyze disaster-related data and generate risk predictions through a web application.
+- 🥈 **2nd Rank, CODEમંથન 3.0 & TECHSPRINT 2.0**: national-level hackathon, Anand, Gujarat (September, 2026). Built DisasterLens, An end-to-end Data-Driven Disaster Risk Prediction System that demonstrates how Machine Learning can be used to analyze disaster-related data and generate risk predictions through a web application.
 
 ## 🔭 Currently learning
 - 👁️ **Computer Vision**: learning how machines understand images
